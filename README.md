@@ -18,3 +18,6 @@ cat ~/.ssh/id_rsa.pub | clip
 ```
 Settings > SSH and GPG keys > New SSH key
 ```
+
+# Markdown cheatsheet
+https://www.markdownguide.org/basic-syntax/
